@@ -1,7 +1,7 @@
 # Socket-io Echo-Server
 Node.js Socket-io Echo-Server
 
-# Requirements
+# Dependencies
 * [Node.js]: http://nodejs.org/
 * [socket.io]: http://socket.io/
 
