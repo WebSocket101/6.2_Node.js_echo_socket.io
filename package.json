@@ -1,0 +1,11 @@
+{
+  "name": "Socket-io_Echo-Server",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node echoServer"
+  },
+  "dependencies": {
+   "socket.io":"1.0.*"
+  }
+}
