@@ -2,8 +2,7 @@
 Node.js Socket-io Echo-Server
 
 # Dependencies
-* [Node.js]: http://nodejs.org/
-* [socket.io]: http://socket.io/
+* Node.js: http://nodejs.org/
 
 # Deployment
 Before first time deployment please execute:
